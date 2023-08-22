@@ -15,13 +15,4 @@ This project delves into deep computer vision techniques to classify characters 
   - Color space transformations: Normalizing and enhancing image features for improved recognition.
   - Edge Detection: Accentuating boundaries and unique character feature bolster the model's classification capability.
 
-## Key Results
-- 🎯 **Accuracy**: The current iteration of the model boasts an impressive classification accuracy.
-- 🚀 **Performance Boost**: Incorporating edge detection techniques has contributed to enhancement in model performance.
-- 🔮 **Future Applications**: This model holds promise in automated meme generation and content recommendation based on character preferences.
-
-## Coming Soon
-- Comparative analysis of various model architectures.
-- Enhanced preprocessing techniques for better feature extraction.
-- User-friendly interface for real-time character classification.
 
