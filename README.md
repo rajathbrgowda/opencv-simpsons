@@ -3,7 +3,7 @@ Update: Push git repo from remote repository
 
 # Deep Computer Vision for "The Simpsons" Character Classification
 
-🚧 **Note**: This repository is actively being updated with new findings and optimizations. Stay tuned!
+🚧 **Note**: This repository is actively being updated with new findings and optimizations. Push git repo from remote repository pending!
 
 ## Overview
 This project delves into deep computer vision techniques to classify characters from the renowned TV series, "The Simpsons". Leveraging a vast dataset of "The Simpsons" images and implementing advanced preprocessing methods via OpenCV, this project strives for optimal recognition capabilities.
